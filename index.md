@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog, uwu
+title: Welcome to my blog
 ---
 
